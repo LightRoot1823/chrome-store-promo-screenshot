@@ -13,7 +13,7 @@ English: [README.md](./README.md)
 ## 安装
 
 ```bash
-git clone https://github.com/<你的账号>/chrome-store-promo-screenshot.git \
+git clone https://github.com/LightRoot1823/chrome-store-promo-screenshot.git \
   ~/.cursor/skills/chrome-store-promo-screenshot
 ```
 
