@@ -13,7 +13,7 @@ A [Cursor](https://cursor.com) Agent Skill that composes **Chrome Web Store** pr
 ## Install
 
 ```bash
-git clone https://github.com/<you>/chrome-store-promo-screenshot.git \
+git clone https://github.com/LightRoot1823/chrome-store-promo-screenshot.git \
   ~/.cursor/skills/chrome-store-promo-screenshot
 ```
 
